@@ -70,7 +70,7 @@ export function Kitchen() {
                   loading="lazy"
                   width={1024}
                   height={1024}
-                  className="absolute inset-0 h-full w-full object-cover scale-110 group-hover:scale-125 transition-transform duration-[2s]"
+                  className="absolute inset-0 h-full w-full object-cover scale-110 group-hover:scale-125 transition-transform duration-[2000ms]"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/40 to-transparent" />
                 <div className="absolute top-4 left-4 h-12 w-12 rounded-full gradient-gold grid place-items-center shadow-gold">
