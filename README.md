@@ -32,17 +32,8 @@ Hi, I'm a freelance web developer specializing in high-converting, mobile-first 
 
 ---
 
-## 💼 Featured Projects
-
-* **[Project Name 1]** - *Modern Italian Bistro* | [Live Demo](#) • [Case Study](#)
-* **[Project Name 2]** - *Artisanal Coffee & Bakery* | [Live Demo](#) • [Case Study](#)
-
----
-
 ## 📫 Let's Connect
 
 Ready to bring more diners to your tables? Let's discuss your project!
 
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-* 💼 **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
-* 💬 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com)
+* 💬 **LinkedIn:** [In linkedIn Adarsh Giri](www.linkedin.com/in/adarsh-giri-63a89022a)
